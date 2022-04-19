@@ -1,6 +1,3 @@
-![Squads](https://github.com/squads-dapp/program/blob/main/logo.png)
-# squads-program
-The Squads on-chain program
 
 ## Overview
 Squads is an on-chain program that allows team to manage digital assets together, create proposals, and more. There are two types of Squads that can be created at the moment: Teams and Multisig. 
